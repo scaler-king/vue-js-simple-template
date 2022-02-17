@@ -1,4 +1,4 @@
-# app0217
+# vue-js-simple-template
 
 ## Project setup
 ```
